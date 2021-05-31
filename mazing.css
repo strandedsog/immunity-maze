@@ -2,8 +2,8 @@ body {
   background-color: pink;
   background-image: radial-gradient(circle at 0% 0%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at center, rgba(0,0,0,0.1) 50%, transparent 50%), radial-gradient(circle at 100% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 0% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 100% 0%, transparent 50%, rgba(0,0,0,0.1) 50%);
   background-size: 8em 8em;
-  font-family: 'Montserrat', cursive !IMPORTANT;
-  font-weight: 900; !important /* black */
+  font-family: 'Montserrat', cursive;
+  font-weight: 900; /* black */
   font-size: 19px;
 }
 #maze_container {
@@ -144,6 +144,7 @@ body {
   transition-duration: 0.4s;
   cursor: pointer;
   font-family: 'Montserrat', cursive;
+  font-weight: 900; /* black */
 }
 
 .button1 {
