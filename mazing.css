@@ -13,7 +13,7 @@ body {
 }
 #maze {
   /*background-color: cyan; */
-  background-color: gold;
+  background-color: cyan;
   background-image: radial-gradient(circle at 0% 0%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at center, rgba(0,0,0,0.1) 50%, transparent 50%), radial-gradient(circle at 100% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 0% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 100% 0%, transparent 50%, rgba(0,0,0,0.1) 50%);
   background-size: 8em 8em;
 }
@@ -146,7 +146,7 @@ body {
 }
 
 .button1 {
-  background-color: gold; 
+  background-color: cyan; 
   background-size: 8em 8em;
   background-image: radial-gradient(circle at 0% 0%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at center, rgba(0,0,0,0.1) 50%, transparent 50%), radial-gradient(circle at 100% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 0% 100%, transparent 50%, rgba(0,0,0,0.1) 50%), radial-gradient(circle at 100% 0%, transparent 50%, rgba(0,0,0,0.1) 50%);
   color: black; 
